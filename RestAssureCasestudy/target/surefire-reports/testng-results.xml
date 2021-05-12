@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21674" started-at="2021-05-09T14:50:36Z" finished-at="2021-05-09T14:50:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21674" started-at="2021-05-09T14:50:36Z" finished-at="2021-05-09T14:50:58Z">
+      <class name="Test.TestAPICaseStudy">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.TestAPICaseStudy@27c86f2d]" name="setup" is-config="true" duration-ms="6883" started-at="2021-05-09T20:20:36Z" finished-at="2021-05-09T20:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Test.TestAPICaseStudy@27c86f2d]" name="login" duration-ms="2267" started-at="2021-05-09T20:20:43Z" finished-at="2021-05-09T20:20:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="GetUser()[pri:1, instance:Test.TestAPICaseStudy@27c86f2d]" name="GetUser" duration-ms="798" started-at="2021-05-09T20:20:45Z" finished-at="2021-05-09T20:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUser -->
+        <test-method status="PASS" signature="GetCategories()[pri:2, instance:Test.TestAPICaseStudy@27c86f2d]" name="GetCategories" duration-ms="5914" started-at="2021-05-09T20:20:46Z" finished-at="2021-05-09T20:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCategories -->
+        <test-method status="PASS" signature="AddProductCategories()[pri:3, instance:Test.TestAPICaseStudy@27c86f2d]" name="AddProductCategories" duration-ms="1176" started-at="2021-05-09T20:20:52Z" finished-at="2021-05-09T20:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductCategories -->
+        <test-method status="PASS" signature="GetProductCategoriesByID()[pri:4, instance:Test.TestAPICaseStudy@27c86f2d]" name="GetProductCategoriesByID" duration-ms="702" started-at="2021-05-09T20:20:53Z" finished-at="2021-05-09T20:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetProductCategoriesByID -->
+        <test-method status="PASS" signature="DeleteProductCategoriesByID()[pri:5, instance:Test.TestAPICaseStudy@27c86f2d]" name="DeleteProductCategoriesByID" duration-ms="1810" started-at="2021-05-09T20:20:54Z" finished-at="2021-05-09T20:20:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteProductCategoriesByID -->
+        <test-method status="PASS" signature="VerifyDeleteProductCategoriesByID()[pri:6, instance:Test.TestAPICaseStudy@27c86f2d]" name="VerifyDeleteProductCategoriesByID" duration-ms="923" started-at="2021-05-09T20:20:56Z" finished-at="2021-05-09T20:20:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDeleteProductCategoriesByID -->
+        <test-method status="PASS" signature="Getlogout()[pri:7, instance:Test.TestAPICaseStudy@27c86f2d]" name="Getlogout" duration-ms="1180" started-at="2021-05-09T20:20:56Z" finished-at="2021-05-09T20:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Getlogout -->
+      </class> <!-- Test.TestAPICaseStudy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
